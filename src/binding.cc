@@ -4,7 +4,7 @@
 #include "v8.h"
 #include "node.h"
 #include "node_pointer.h"
-#include "output.h"
+#include "mpg123.h"
 
 using namespace v8;
 using namespace node;
